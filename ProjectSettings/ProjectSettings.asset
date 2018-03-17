@@ -858,7 +858,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 3a9dd664-5b66-44ab-90b1-005387ae4810
-  projectName: 
+  projectName: Tutorial_AdventureGame
   organizationId: jtfq7695
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
